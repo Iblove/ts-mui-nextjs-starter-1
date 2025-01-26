@@ -1,6 +1,6 @@
 # Netlify Next.js + TypeScript + MUI Starter  
 
-![Netlify Next.js + TS + MUI Starter](https://assets.stackbit.com/docs/ts-nextjs-starter-thumb.png)
+ibdesign.com https://assets.stackbit.com/docs/ts-nextjs-starter-thumb.png)
 
 This is a minimal starting point for new Netlify projects with visual editing. It is built with Next.js, TypeScript, and [MUI](https://mui.com/), and is equipped with [visual editing capabilities](https://docs.netlify.com/visual-editor/visual-editing/). It uses markdown files as the the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
 
